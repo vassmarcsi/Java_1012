@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Beolvas_while {
+public class beolvas_while {
 
 	static Scanner beolvas = new Scanner(System.in);
 

@@ -1,7 +1,7 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Beolvas {
+public class beolvas_szam {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
